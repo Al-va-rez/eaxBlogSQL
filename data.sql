@@ -1,5 +1,5 @@
 -- Insert values into USERS table
-INSERT INTO Users (UserID, Username, FirstName, LastName, DateOfBirth, Password, DateAdded) VALUES
+INSERT INTO Users (UserID, Username, FirstName, LastName, DateOfBirth, Password, DateRegistered) VALUES
 (1, 'glinforth0', 'Godfree', 'Linforth', '4/12/2004', 'ecdcsgyamUKOFKX4440#!', '8/22/2022'),
 (2, 'gwistance1', 'Giulio', 'Wistance', '5/21/2003', 'getoumiocYSFWPM6397@#', '5/30/2024'),
 (3, 'apudsey2', 'Alica', 'Pudsey', '5/26/2000', 'eideubppiYXTDUL5232=)', '7/5/2021'),
