@@ -53,7 +53,7 @@ INSERT INTO Friends (FriendID, FriendWhoAdded, FriendBeingAdded, IsAccepted, Dat
 
 
 -- Insert values into GROUPS table
-INSERT INTO Groups (GroupID, GroupName, CreatedBy, DateAdded) VALUES
+INSERT INTO Groups (GroupID, GroupName, CreatedBy, DateCreated) VALUES
 (1, 'McLaughlin, Glover and Stanton', 14, '2/8/2024'),
 (2, 'Wilderman-Bogisich', 8, '7/22/2020'),
 (3, 'Spencer-Boyer', 19, '3/5/2022'),
